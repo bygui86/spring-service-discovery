@@ -43,7 +43,6 @@
 
 		<!-- openfeign -->
 		<openfeign.version>9.3.1</openfeign.version>
-		<!--<producer-service.version>0.0.1</producer-service.version>-->
 
 		<!-- logging -->
 		<slf4.version>1.7.25</slf4.version>
